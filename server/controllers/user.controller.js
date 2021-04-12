@@ -85,5 +85,6 @@ export default {
     list,
     userByID,
     read,
-    update
+    update,
+    remove
 }
